@@ -80,8 +80,12 @@ Python
  - [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
     - Üst verdiğim bağlantıyı sadece python için değil bütün diller için uyarlayabilirsiniz.
     
-
 ----------
+Rails
+-------------
+ - [Learn Rails For Beginners](http://programmingplusplus.thinkific.com/courses/learn-rails-beginner)
+----------
+
 C#
 -------------
 - [.Net ile uygulama geliştirme hakkında yazılar ve bilgiler](http://www.denizirgin.com/)
