@@ -79,6 +79,7 @@ Python
     - Üste verdiğim öğretici setin anlatıcı hocasının diğer eğitimleri aynı şekilde mükemmeldir.
  - [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
     - Üst verdiğim bağlantıyı sadece python için değil bütün diller için uyarlayabilirsiniz.
+ - [Basic Projects](https://www.reddit.com/r/beginnerprojects/)
     
 ----------
 Rails
