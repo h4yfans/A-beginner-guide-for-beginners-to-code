@@ -152,6 +152,7 @@ Javascript
  - [Essential ES6 / ES2015 JavaScript](https://www.youtube.com/watch?v=CozSF5abcTA)
  - [16 JavaScript Concepts JavaScript Professionals Must Know Well](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
  - [Şu method hangi dilde tam olarak nasıl çalışıyor?](http://devdocs.io/)
+ - [JavaScript Garden TR](http://bonsaiden.github.io/JavaScript-Garden/tr/)
  
 **React**
 -  [render - getting started](http://learnreact.com/lessons/1-render-getting-started)
