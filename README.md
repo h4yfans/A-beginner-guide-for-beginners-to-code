@@ -80,6 +80,43 @@ Python
  - [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
     - Üst verdiğim bağlantıyı sadece python için değil bütün diller için uyarlayabilirsiniz.
  - [Basic Projects](https://www.reddit.com/r/beginnerprojects/)
+ - [Haki Benita](https://hakibenita.com/)
+   - Haki Benita'nın kendi blogunda paylaştığı öğretici yazılar
+ 
+**Django ve Python hakkında Youtube Kanalları**
+ - [sentdex](https://www.youtube.com/user/sentdex)
+ - [JustDjango](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
+ - [CodingEntrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)
+ - [schafer5](https://www.youtube.com/user/schafer5)
+ - [Max204204204](https://www.youtube.com/user/Max204204204)
+ - [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ)
+ 
+**Django**
+
+ - [Django Packages](https://djangopackages.org/)
+    - Paket kullanmadan önce mutlaka buraya bakın. Hangi repo ne kadar aktif ne kadar değil bunu çok rahat görmenize yardımcı oluyor.
+ - [Classy Class-Based Views](http://ccbv.co.uk/)
+    - CBV'in yapısı itibariyle açıklamaları, fieldları ve methodları detaylıca anlatan site.
+ - [Classy Django Forms](https://cdf.9vo.lt/)
+    - Form yapısını detaylıca anlatan site.
+ - [REST Framework](http://www.cdrf.co/)
+    - DRF hakkında detaylıca bilgilendirme mevcut. Methodlar, fieldlar gidiyor da gidiyor.
+ 
+**Django Hakkında Kitaplar**
+
+   - Two Scoops of Django
+        - Her na kadar 1.1 versiyonunu anlatsa da Github'da kitapdaki kodların 2.2/2.1lik verisyonu mevcut
+   - [Django Admin Cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)
+   - [Django ORM Cookbook](https://books.agiliq.com/projects/django-orm-cookbook/)
+   - [Building APIs with Django and Django Rest Framework](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
+   - [Building Multi Tenant Applications with Django](https://books.agiliq.com/projects/django-multi-tenant/en/latest/)
+   - [Django Projects Cookbook](https://books.agiliq.com/projects/djenofdjango/en/latest/)
+   - [Django Design Patterns (Outdated)](https://books.agiliq.com/projects/django-design-patterns/en/latest/)
+   - [Django Gotchas (Outdated)](https://books.agiliq.com/projects/django-gotchas/en/latest/)
+
+    
+
+
     
 ----------
 Rails
