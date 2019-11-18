@@ -115,7 +115,14 @@ Python
    - [Django Gotchas (Outdated)](https://books.agiliq.com/projects/django-gotchas/en/latest/)
 
     
-
+----------
+Go
+-------------
+ - [Go by Example](https://gobyexample.com/)
+ - [Go Web Example](https://gowebexamples.com/)
+ - [Golang Example](https://golang-examples.tumblr.com/)
+ - [Go Language Programming Practical Basics Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
+ 
 
     
 ----------
