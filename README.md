@@ -5,6 +5,10 @@ Programlama ile ilgili kaynaklar
 Merhaba! Zamanında (aslında hala devam ediyor)  merakımdan dolayı şuna bakayım biraz da buna bakayım derken her şeyden çok az bilgi edindim. Bunları sizlerle paylaşmak istedim.
 
 ----------
+# Note 
+Aynı zamanda okuduğum veya izlediğim kaynakları da burada paylaşıyor. Göz atmanızı tavsiye ederim.
+
+https://github.com/h4yfans/the-articles-i-read
 
 
 **Mobile Application**
